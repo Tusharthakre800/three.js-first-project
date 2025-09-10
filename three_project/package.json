@@ -4,11 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-  "dev": "",
-  "build": "vite build",
-  "start": "vite preview"
-}
-  ,
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite preview"
+  },
   "dependencies": {
     "gsap": "^3.12.5",
     "three": "^0.169.0",
